@@ -19,7 +19,7 @@ body {
   }  
   .jumbotron {
     
-	background-image: url("../images/2.jpeg"); 
+	background-image: url("../images/3.jpeg"); 
     height: 780px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -118,7 +118,7 @@ body {
   .navbar {
     margin-bottom: 0;
     
-	 background: url("../images/nav-back.PNG") top center;
+	 background: url("../images/nav-back2.PNG") top center;
     z-index: 9999;
     border: 0;
     font-size: 12px !important;
@@ -219,6 +219,12 @@ body {
   line-height: 56px;
   color: #fff;
   text-shadow: -1px 0 2px #2f4d5a;
+}
+#landing-sec p{
+font-style: italic;
+font-weight: 700;
+line-height: 56px;
+color: #fff;text-shadow: -1px 0 2px #2f4d5a;
 }
 
 #hero h2 {
