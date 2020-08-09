@@ -19,7 +19,7 @@ body {
   }  
   .jumbotron {
     
-	background-image: url("../images/banner10.jpg"); 
+	background-image: url("../images/2.jpeg"); 
     height: 780px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -265,3 +265,4 @@ body {
     margin-bottom: 30px;
   }
 }
+
