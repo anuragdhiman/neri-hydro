@@ -20,7 +20,7 @@ body {
   .jumbotron {
     
 	background-image: url("../images/water-11.gif"); 
-    height: 780px;
+    height: 676px;
 	background-repeat: no-repeat;
 	background-size: cover;
 
@@ -117,8 +117,8 @@ body {
   }
   .navbar {
     margin-bottom: 0;
-    background: transparent;
-	/* background: url("../images/nav-back1.PNG") top center;*/
+    /*background: transparent;*/
+	 background: url("../images/nav-back3.PNG") top center;
     z-index: 9999;
     border: 0;
     font-size: 12px !important;
